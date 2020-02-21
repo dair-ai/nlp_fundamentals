@@ -5,3 +5,5 @@ Natural language processing (NLP) has made substantial advances in the past few 
 We introduce a new series called Fundamentals of NLP where we aim to teach about important NLP techniques and concepts starting from the first principles. We will introduce the theoretical aspect and motivation of each concept covered throughout the series. Then we will obtain hands-on experience by using bootstrap methods, industry-standard tools, and other open-source libraries to implement the different techniques. Along the way, we will also cover best practices, share important references, point out common mistakes to avoid when training and building NLP models, and discuss what lies ahead.
 
 ## Chapters
+
+**Chapter 1:** Tokenization, Lemmatization, Stemming, and Sentence Segmentation -- [Colab notebook](https://colab.research.google.com/drive/18ZnEnXKLQkkJoBXMZR2rspkWSm9EiDuZ)
