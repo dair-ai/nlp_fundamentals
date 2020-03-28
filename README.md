@@ -7,3 +7,17 @@ We introduce a new series called Fundamentals of NLP where we aim to teach about
 ## Chapters
 
 **Chapter 1:** Tokenization, Lemmatization, Stemming, and Sentence Segmentation -- [Colab notebook](https://colab.research.google.com/drive/18ZnEnXKLQkkJoBXMZR2rspkWSm9EiDuZ)
+
+---
+
+If this repository helped you in your research, please consider citing us:
+
+```
+@misc{saravia2020dair,
+  title={dair.ai: Democratizing Artificial Intelligence Research, Education, and Technologies},
+  author={Saravia, Elvis},
+  journal={https://github.com/dair-ai},
+  number={1},
+  year={2020}
+}
+```
