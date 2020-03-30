@@ -6,6 +6,8 @@ Natural language processing (NLP) has made substantial advances in the past few 
 
 We introduce a new series called Fundamentals of NLP where we aim to teach about important NLP techniques and concepts starting from the first principles. We will introduce the theoretical aspect and motivation of each concept covered throughout the series. Then we will obtain hands-on experience by using bootstrap methods, industry-standard tools, and other open-source libraries to implement the different techniques. Along the way, we will also cover best practices, share important references, point out common mistakes to avoid when training and building NLP models, and discuss what lies ahead.
 
+Join our [Slack community](https://join.slack.com/t/dairai/shared_invite/zt-d2srv503-bQ01ZPLC4t4OoolEN9saSg) to find our more about this and other ongoing projects or send me an email at ellfae@gmail.com and I will send you an invite.
+
 ## Chapters
 
 **Chapter 1:** Tokenization, Lemmatization, Stemming, and Sentence Segmentation -- [Colab notebook](https://colab.research.google.com/drive/18ZnEnXKLQkkJoBXMZR2rspkWSm9EiDuZ), [Web version](https://dair.ai/notebooks/nlp/2020/03/19/nlp_basics_tokenization_segmentation.html)
