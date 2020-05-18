@@ -11,3 +11,6 @@ Join our [Slack community](https://join.slack.com/t/dairai/shared_invite/zt-dv2d
 ## Chapters
 
 **Chapter 1:** Tokenization, Lemmatization, Stemming, and Sentence Segmentation -- [Colab notebook](https://colab.research.google.com/drive/18ZnEnXKLQkkJoBXMZR2rspkWSm9EiDuZ), [Web version](https://dair.ai/notebooks/nlp/2020/03/19/nlp_basics_tokenization_segmentation.html)
+
+## Contributors
+- Elvis Saravia (@omarsar)
