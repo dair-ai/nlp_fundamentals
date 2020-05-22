@@ -11,3 +11,9 @@ Join our [Slack community](https://join.slack.com/t/dairai/shared_invite/zt-dv2d
 ## Chapters
 
 **Chapter 1:** Tokenization, Lemmatization, Stemming, and Sentence Segmentation -- [Colab notebook](https://colab.research.google.com/drive/18ZnEnXKLQkkJoBXMZR2rspkWSm9EiDuZ), [Web version](https://dair.ai/notebooks/nlp/2020/03/19/nlp_basics_tokenization_segmentation.html)
+
+### How to Contribute?
+- You can check out our [Project page](https://github.com/orgs/dair-ai/projects/8) to see all the ongoing tasks or issues related to this research project. Lookout for the main `nlp_fundamentals` tag. Issues with the `good first issue` tag are good tasks to get started with.
+- You can also just check the [issues tab](https://github.com/dair-ai/nlp_fundamentals/issues).
+- You can ask anything related to this project in our [Slack group](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g). 
+- Slack channel: #nlp_fundamentals
