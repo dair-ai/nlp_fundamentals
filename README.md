@@ -17,3 +17,33 @@ Join our [Slack community](https://join.slack.com/t/dairai/shared_invite/zt-dv2d
 - You can also just check the [issues tab](https://github.com/dair-ai/nlp_fundamentals/issues).
 - You can ask anything related to this project in our [Slack group](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g). 
 - Slack channel: #nlp_fundamentals
+
+## Contributors
+
+### Code Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="https://github.com/dair-ai/nlp_fundamentals/graphs/contributors"><img src="https://opencollective.com/dairai/contributors.svg?width=890&button=false" /></a>
+
+### Financial Contributors
+
+Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/dairai/contribute)]
+
+#### Individuals
+
+<a href="https://opencollective.com/dairai"><img src="https://opencollective.com/dairai/individuals.svg?width=890"></a>
+
+#### Organizations
+
+Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/dairai/contribute)]
+
+<a href="https://opencollective.com/dairai/organization/0/website"><img src="https://opencollective.com/dairai/organization/0/avatar.svg"></a>
+<a href="https://opencollective.com/dairai/organization/1/website"><img src="https://opencollective.com/dairai/organization/1/avatar.svg"></a>
+<a href="https://opencollective.com/dairai/organization/2/website"><img src="https://opencollective.com/dairai/organization/2/avatar.svg"></a>
+<a href="https://opencollective.com/dairai/organization/3/website"><img src="https://opencollective.com/dairai/organization/3/avatar.svg"></a>
+<a href="https://opencollective.com/dairai/organization/4/website"><img src="https://opencollective.com/dairai/organization/4/avatar.svg"></a>
+<a href="https://opencollective.com/dairai/organization/5/website"><img src="https://opencollective.com/dairai/organization/5/avatar.svg"></a>
+<a href="https://opencollective.com/dairai/organization/6/website"><img src="https://opencollective.com/dairai/organization/6/avatar.svg"></a>
+<a href="https://opencollective.com/dairai/organization/7/website"><img src="https://opencollective.com/dairai/organization/7/avatar.svg"></a>
+<a href="https://opencollective.com/dairai/organization/8/website"><img src="https://opencollective.com/dairai/organization/8/avatar.svg"></a>
+<a href="https://opencollective.com/dairai/organization/9/website"><img src="https://opencollective.com/dairai/organization/9/avatar.svg"></a>
