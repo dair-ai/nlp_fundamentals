@@ -15,5 +15,5 @@ Join our Slack community to find our more about this and other ongoing projects.
 ## How to Contribute?
 - You can check out our [Project page](https://github.com/orgs/dair-ai/projects/8) to see all the ongoing tasks or issues related to this research project. Lookout for the main `nlp_fundamentals` tag. Issues with the `good first issue` tag are good tasks to get started with.
 - You can also just check the [issues tab](https://github.com/dair-ai/nlp_fundamentals/issues).
-- You can ask anything related to this project in our [Slack group](https://join.slack.com/t/dairai/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g). 
+- You can ask anything related to this project in our Slack group.
 - Slack channel: #nlp_fundamentals
